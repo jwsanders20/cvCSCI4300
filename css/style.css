@@ -1,0 +1,172 @@
+body{
+    margin: 0px;
+}
+.top{
+    background-color: white;
+    border-bottom: none;
+    
+}
+.heading{
+    border-top: none;
+    text-align: center;
+    padding-top: 85px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: grey;
+}
+
+#ny{
+    width:100%;
+}
+
+#plane{
+    position: absolute;
+    top:165px;
+    right: 95px;
+    width: 65px;
+}
+
+#sun{
+    position: absolute;
+    top:35px;
+    left: 35px;
+}
+
+#headshot{
+    border-radius: 35%;
+    width:250px;
+}
+
+#langs{
+    margin: 10px;
+}
+
+#leader{
+    margin: 10px;
+}
+
+#skills{
+    margin: 10px;
+}
+
+#arch{
+    width: 105px;
+}
+
+#powerG{
+    width: 105px;
+}
+
+#csskill{
+    width: 105px;
+}
+
+#sidePic{
+    display: inline-block;
+    margin: 0 auto;
+    width: 49%;
+    float: none;
+}
+
+hr {
+    border: 2px dotted red;
+    border-radius: 2px;
+    width: 500px;
+}
+
+#list1{
+    width:25%;
+    display:inline-block;
+    margin: 0 auto;
+}
+
+#list2{
+    width:25%;
+    display:inline-block;
+    margin: 0 auto;
+}
+
+.skillColor{
+    color:white;
+}
+
+.skillAlign{
+    text-align: left;
+}
+
+.content{
+    background-image:linear-gradient(white,white, black);
+    margin: 0 auto;
+    text-align: center;
+    font-size: large;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top:40px;
+    padding-bottom: 40px;
+    margin-bottom: none;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Texturina', serif;
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+
+a:visited{
+    color: red;
+    text-decoration: none;
+}
+
+a:link{
+    color:grey;
+    text-decoration: none;
+}
+
+a:hover{
+    color:blue;
+}
+
+.button{
+    background-color: white;
+    color:black;
+    text-align: center;
+    font-family: 'Texturina', serif;
+    border-radius: 12px;
+    font-size: 18px;
+    border: 2px solid #ff0000;
+    text-decoration: none;
+    width: 135px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(255, 0, 0, 0.6);
+  }
+
+  .fullContact{
+    background-image:linear-gradient(white,white, black);
+  }
+
+  #name{
+    padding: 15px;
+  }
+
+  #email{
+    padding: 15px;
+  }
+
+  #message{
+    padding: 15px;
+  }
